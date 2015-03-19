@@ -43,6 +43,11 @@ set cursorline
 
 set nu
 
+if has("gui_running")
+	set guifont=Monospace\ 8
+	set guioptions-=T
+endif
+
 " Unite.vim
 " Most recently used search
 nnoremap <leader>m :<C-u>Unite -buffer-name=mru     -start-insert file_mru<cr>
