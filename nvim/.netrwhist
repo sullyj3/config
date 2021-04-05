@@ -1,0 +1,9 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_1='/home/james/dev/jamessully.com.au/api'
+let g:netrw_dirhist_2='/home/james/.config/nvim'
+let g:netrw_dirhist_3='/home/james/.config/nvim/ftplugin'
+let g:netrw_dirhist_4='/mnt/c/Users/James/Google Drive/Tutoring/FIT2102 2020 S2/tutes/fit2102/tutes/week11/workshop11/src'
+let g:netrw_dirhist_5='/home/james/dev/AdventOfCode2020/inputs'
+let g:netrw_dirhist_6='/home/james/.config'
+let g:netrw_dirhist_7='/home/james/.config/nvim'
